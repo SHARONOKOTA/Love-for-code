@@ -1,4 +1,4 @@
-# Code-for-love
+# Machine Learning algorithms
 Gradient descent algorithm
 for loop used in gradientDescent.m
 functions already defined.
